@@ -36,20 +36,15 @@ htmlcode =
           
       <link rel="shortcut icon" href="/img/icon.png" type="image/x-icon"> 
 
-      <link rel="stylesheet" href="https://atstem.github.io/just.css/just.css"/>
-      <link rel="stylesheet" href="https://atstem.github.io/just.css/anim.css"/>
-      <link rel="stylesheet" href="https://atstem.github.io/just.css/fonts.css"/>
+        <link rel="stylesheet" href="https://atstem.github.io/just.css/anim.css"/>
+      <link rel="stylesheet" href="https://lyche.li/f/li.css"/>
       
        <link rel="stylesheet" 
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.css"/>
 
       </head>
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Sharp:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-  <style> .material-symbols-outlined, .material-symbols-rounded, .material-symbols-sharp { font-variation-settings: 'FILL' 1,'wght' 500,'GRAD' 200, 'opsz' 48 } </style>
-  <body>
+<body>
 
 
   
