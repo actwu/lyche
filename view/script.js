@@ -103,7 +103,7 @@ function run() {
    
   viewport = `
   
-   <iframe style="position:fixed; top:0;left:0;right:0; height: 90%;width: 100vw; bottom:0.65in;" src="https://actwu.github.io/code/view/re.html"
+   <iframe style="position:fixed; top:0;left:0;right:0; height: 90%;width: 100vw; bottom:0.65in;" src="https://actwu.github.io/lyche/view/re.html"
 class="  center"
 ></iframe>
 
